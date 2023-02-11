@@ -1,0 +1,3 @@
+C:/Users/aluno/Documents/Codigos-Randon-Fatec/C/Aula 1/cmake-build-debug/CMakeFiles/Aula_1.dir
+C:/Users/aluno/Documents/Codigos-Randon-Fatec/C/Aula 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aluno/Documents/Codigos-Randon-Fatec/C/Aula 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
