@@ -7,10 +7,9 @@ int main() {
 
     //Comentário de uma linha
 
-    unsigned short int x;
+    int z = 21, y = 4;
+    float x = z / (float)y; //Convertendo uma váriavel int para float apenas nesta situação
 
-    x = 32769;
-
-    printf("%d \n", x);
+    printf("%f \n", x);
     return 0;
 }
