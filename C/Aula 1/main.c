@@ -10,6 +10,8 @@ int main() {
     int z = 21, y = 4;
     float x = z / (float)y; //Convertendo uma váriavel int para float apenas nesta situação
 
+    //printf("Tamanho o float: %d \n", sizeof(x));
     printf("%f \n", x);
+
     return 0;
 }
