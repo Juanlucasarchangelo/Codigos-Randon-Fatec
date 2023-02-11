@@ -7,6 +7,10 @@ int main() {
 
     //Comentário de uma linha
 
-    printf("Hello, World!\n");
+    unsigned short int x;
+
+    x = 32769;
+
+    printf("%d \n", x);
     return 0;
 }
