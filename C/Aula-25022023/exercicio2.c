@@ -1,10 +1,13 @@
- 
+ #include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
     double salario, salarioFinal;
     char estado;
     
     printf("Entre com seu salario: \n");
-    scanf("%d", salario);
-    fflush(stdin);
+    scanf("%d", &salario);
     printf("Entre com seu Estado Civil: \n");
     estado = getchar();
 
