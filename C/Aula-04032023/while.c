@@ -23,5 +23,5 @@ int main()
 
     } while (soma <= 100);
 
-    printf("O valor chegou a %d", soma);
+    printf("O valor chegou a %d \n\n", soma);
 }
