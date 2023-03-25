@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "matematica.h"
+#include "funcoes\matematica.h"
 
 int main()
 {
