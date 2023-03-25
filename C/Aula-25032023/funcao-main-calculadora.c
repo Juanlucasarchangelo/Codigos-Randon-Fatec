@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <locale.h>
 #include "calculadora.c"
+
 int main() {
     setlocale(LC_ALL, "Portuguese");
     int a, b;
@@ -30,7 +31,6 @@ int main() {
                 break;
             default:
                 printf("Opção inválida \n");
-
         }
     }while(opcao!=9);
     return 0;
