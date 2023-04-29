@@ -36,5 +36,6 @@
   "C_Cpp_Runner.useAddressSanitizer": false,
   "files.associations": {
     "matematica.h": "c"
-  }
+  },
+  "C_Cpp_Runner.showCompilationTime": false
 }

@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Mabilly/Documents/FATEC/C/Codigos-Randon-Fatec/C/Aula-04032023",
-      "program": "c:/Users/Mabilly/Documents/FATEC/C/Codigos-Randon-Fatec/C/Aula-04032023/build/Debug/outDebug",
+      "cwd": "c:/Users/Mabilly/Documents/FATEC/C/Codigos-Randon-Fatec/C",
+      "program": "c:/Users/Mabilly/Documents/FATEC/C/Codigos-Randon-Fatec/C/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
